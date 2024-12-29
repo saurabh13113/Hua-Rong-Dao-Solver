@@ -1,4 +1,4 @@
-#🧩 State Space Search: Hua Rong Dao Sliding Puzzle Solver
+# 🧩 State Space Search: Hua Rong Dao Sliding Puzzle Solver
 University project that solves Hua-Rong-Dao Puzzle using State Space Searching.
 
 ## 📖 Introduction
