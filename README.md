@@ -14,7 +14,7 @@ This project involves implementing a solver for a variant of the Hua Rong Dao (o
 
 The objective is to reach the specified goal configuration by sliding pieces while adhering to movement rules.
 
----
+![image](https://github.com/user-attachments/assets/ae9a70e8-dd7b-4d59-949d-d17bf8a24258)
 
 ## 💼 Features
 
@@ -36,18 +36,20 @@ Characters:
 2: 1x1 piece
 <, >: Left/right of a horizontal 1x2 piece
 ^, v: Top/bottom of a vertical 1x2 piece
+
 Example Input File:
+
 ^^^^
 vvvv
 22..
 11<>
 1122
-
 ....
 ....
 ....
 ^^^^
 ....
+
 ### Output:
 If no solution exists, output:
 No solution
